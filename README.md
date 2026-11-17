@@ -74,10 +74,10 @@ Read the input image in color mode.
 ##  Program
 
 ### Developed By:
-**Name:** Aman Nair
+**Name:** Aditya Jorim F S
 
 ### Register No:
-212225240008
+212225240004
 
 ~~~python
 import cv2
